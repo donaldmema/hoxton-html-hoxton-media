@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  h2 {
+    display: inline-block;
+  }
+
+  .header {
+    padding: 20px;
+    background-color: #152331;
+    color: white;
+    font-family: serif;
+  }
+  
+  .headerspan {
+    margin-left: 15px;
+    font-weight: bold;
+  }
+
+  .logos-section {
+      padding-left: 20px;
+      padding-bottom: 10px;
+  }
+
+  .logos {
+      width: 150px;
+      display: inline-block;
+      border: 1px ;
+      padding: 20px;
+      border-radius: 20px;
+      margin-right: 30px;
+      box-shadow: 3px 3px 7px #dcdcdc;
+  }
+
+  main {
+    background-color: white;
+  }
+
+  main h2 {
+    color: #2c4e72;
+    padding: 20px;
+  }
+
+  .ad-text {
+    padding: 20px;
+  }
+
+  main p {
+    margin-bottom: 15px;
+  }
+
+  .subscribe-box {
+    margin-left: 20px;
+    padding: 15px;
+    color: #c0a53b;
+    text-align: center;
+    border: 2px solid #c0a53b;
+    width: 220px;
+    border-radius: 20px;
+  }
+
+  footer {
+    padding: 20px;
+    background-color: #152331;
+    color: white;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    font-family: serif;
+  }
+
+  .footer-nav {
+    margin-bottom: 10px;
+  }
+
+  .suboptions {
+    margin-left: 30px;
+  }
+
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
